@@ -1,4 +1,4 @@
-<h1 align="left">Luíza Nurnberg</h1>
+<h1 align="left">Luíza Nurnberg 🐈‍⬛ 🐈 </h1>
 
 ### I enjoy developing projects related to:
    - Algorithm optimization;
