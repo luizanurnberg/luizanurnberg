@@ -14,7 +14,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=luizanurnberg&show_icons=true&count_private=true&theme=rose_pine&hide_border=true&hide=issues,contribs&bg_color=ffffff00" />
 <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizanurnberg&layout=compact&hide_border=true&theme=rose_pine&bg_color=ffffff00&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 <br>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizanurnberg&theme=dracula&hide_border=true" alt="Activity graph">
-</a>
