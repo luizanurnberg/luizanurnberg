@@ -17,3 +17,7 @@ I'm **Luíza Nurnberg**, a Software Engineer who loves exploring new technologie
 - Advanced **system design** and **scalability**  
 - Optimization algorithms applied in software projects  
 - Exploring new cloud-native tools
+
+## Certifications
+
+[![MongoDB Certified](mongodb-aggregation-fundamentals.png)](https://www.credly.com/badges/6a058b3a-51b6-4724-9a4a-5dac4e632edf/public_url)
