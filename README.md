@@ -13,11 +13,26 @@ I'm **Luíza Nurnberg**, a Software Engineer who loves exploring new technologie
 - **Cloud & Infra:** AWS, Docker  
 - **Other skills:** Kotlin (desktop/mobile), C#
 
-### What I'm Learning
-- Advanced **system design** and **scalability**  
-- Optimization algorithms applied in software projects  
-- Exploring new cloud-native tools
+### What I studied recently
+<div style="display: flex; gap: 20px; align-items: flex-start;">
 
+  <div style="text-align: center;">
+    <a href="https://www.credly.com/badges/6a058b3a-51b6-4724-9a4a-5dac4e632edf/public_url">
+      <img src="mongodb-aggregation-fundamentals.png" height="140">
+    </a>
+    <p style="margin-top: 8px; font-size: 14px;">
+      Badge earned from the <strong>MongoDB Fundamentals of Data Transformation</strong> course on MongoDB University
+    </p>
+  </div>
 
-<br></br>
-[![MongoDB Certified](mongodb-aggregation-fundamentals.png)](https://www.credly.com/badges/6a058b3a-51b6-4724-9a4a-5dac4e632edf/public_url)
+  <div style="text-align: center;">
+    <a href="https://learn.microsoft.com/api/achievements/share/pt-br/LuzaNurnberg-3417/NMQRQZGF?sharingId=6172AEFFAE650801">
+      <img src="ia-certificate.png" height="120">
+    </a>
+    <p style="margin-top: 8px; font-size: 14px;">
+      Badge earned from the <strong>Introduction to Generative AI and Agents</strong> course on Microsoft
+    </p>
+  </div>
+
+</div>
+
