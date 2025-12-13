@@ -8,9 +8,9 @@
 I'm **Luíza Nurnberg**, a Software Engineer who loves exploring new technologies, solving problems with code and learning continuously.  
 
 ### Stack
-- **Backend:** Node.js, TypeScript, Express, Python (Flask, Django), Java (Spring Boot)  
+- **Backend:** Node.js, TypeScript, Python, Java  
 - **Databases:** PostgreSQL, MongoDB  
-- **Cloud & Infra:** AWS, Docker  
+- **Infra:** Docker  
 - **Other skills:** Kotlin (desktop/mobile), C#
 
 ### What I studied recently
