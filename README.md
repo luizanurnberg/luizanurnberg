@@ -32,7 +32,6 @@
   <dd>
     - Git, GitLab, GitHub Actions<br>
     - Docker, RabbitMQ, Firebase<br>
-    - Trello, Notion
   </dd>
 
   <dt><strong>Automated Testing :</strong></dt>
