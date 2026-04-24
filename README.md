@@ -9,7 +9,7 @@
   </a>
 </h2>
       <p align="center">
-         I'm a Software Engineer focused on backend development, working on the creation of reliable and scalable systems in complex environments such as international trade. Experienced in system integrations, large-scale refactoring, and the implementation of business-critical features, always applying industry-standard best practices and design patterns.
+         I'm a graduated Software Engineer, working on the creation of reliable and scalable systems in complex environments such as international trade. Experienced in system integrations, large-scale refactoring, and the implementation of business-critical features, always applying industry-standard best practices and design patterns.
       </p>
       <h2 align="center">Skills</h2>
 <dl align="center">
